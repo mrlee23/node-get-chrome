@@ -1,0 +1,24 @@
+{
+  "name": "get-chrome",
+  "version": "0.0.1",
+  "description": "Find Google Chrome's local path based on current system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrlee23/node-get-chrome.git"
+  },
+  "keywords": [
+    "chrome",
+    "path",
+    "finder"
+  ],
+  "author": "Dongsoo Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrlee23/node-get-chrome/issues"
+  },
+  "homepage": "https://github.com/mrlee23/node-get-chrome#readme"
+}
