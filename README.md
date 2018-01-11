@@ -5,7 +5,7 @@
 ## Introduction
 This module provide simple method which returns local chrome path depending on platforms.
 
-This codes are based on `chrome-finder` of [chrome-launcher's](https://github.com/GoogleChrome/chrome-launcher) module.
+This codes are based on `chrome-finder` of [chrome-launcher](https://github.com/GoogleChrome/chrome-launcher) module.
 
 ## Supports
 Supports 4 platforms: darwin, linux, win32, wsl
