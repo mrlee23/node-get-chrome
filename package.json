@@ -1,6 +1,6 @@
 {
   "name": "get-chrome",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Find Google Chrome's local path based on current system.",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/mrlee23/node-get-chrome/issues"
   },
-  "homepage": "https://github.com/mrlee23/node-get-chrome#readme"
+  "homepage": "https://github.com/mrlee23/node-get-chrome#readme",
+  "dependencies": {
+    "is-wsl": "^1.1.0",
+    "lighthouse-logger": "^1.0.1"
+  }
 }
